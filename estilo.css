@@ -1,0 +1,31 @@
+th, td {
+    border: 3px solid black;
+    padding: 15px;
+    font-size: 35px;
+}
+table { 
+    margin-top: 600px;
+    margin-left: auto;
+    margin-right: auto;
+    border-collapse: collapse;
+    text-align: center;
+    margin-bottom: 250px;
+    background-color: rgb(114, 150, 91);
+}
+caption {
+    font-size: 30px ;
+}
+body {
+    background-image: url(Imagens/tela-de-filme-do-cinema-39826577.webp);
+    background-size: cover;
+    background-position: center center;
+    margin: 0% 25%;
+    background-repeat: no-repeat;
+    text-align: center;
+}
+p {
+    color: rgb(0, 0, 0);
+    background-color: rgba(183, 175, 175, 0.664);
+    font-size: 20px;
+    
+}
